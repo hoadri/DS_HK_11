@@ -29,10 +29,10 @@ Student projects and assignements can be submitted through the [Submission Form]
 | | | | **Unit 3 - Data Science in the Real World** | |
 | 7 | 16-11-23 | Mart | [Feature Engineering (Clustering)](./lessons/lesson-13) | **[Final Project 2](./projects/final-projects/3) due** |
 | 7 | 16-11-28 | Mart | [Feature Engineering (Dimensional Reduction)](./lessons/lesson-14) | **[Unit Project 3](./projects/unit-projects/2) due** |
-| 8 | 16-11-30 | Alex | [Time Series Data)](./lessons/lesson-15) | |
-| 8 | 16-12-05 | Alex | [Modeling Time Series Data)](./lessons/lesson-16) | |
-| 9 | 16-12-07 | Mart | [Data Science Pipelines)](./lessons/lesson-17) | |
-| 9 | 16-12-12 | Mart | [Kaggle Competition)](./lessons/lesson-18) | |
+| 8 | 16-11-30 | Alex | [Time Series Data](./lessons/lesson-15) | |
+| 8 | 16-12-05 | Alex | [Modeling Time Series Data](./lessons/lesson-16) | |
+| 9 | 16-12-07 | Mart | [Data Science Pipelines](./lessons/lesson-17) | |
+| 9 | 16-12-12 | Mart | [Kaggle Competition](./lessons/lesson-18) | |
 | 10 | 16-12-14 | All | Final Project Labs | **[Final Project](./final-project/5) ** |
 | 10 | 16-12-19 | All | Final Project Projects | |
 
