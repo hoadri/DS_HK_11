@@ -7,8 +7,6 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 Student projects and assignements can be submitted through the [Submission Form](https://docs.google.com/a/type.hk/forms/d/e/1FAIpQLScTItYSwramw2fi8Df-8Os_1WTC-TgqI9A0ps8pcKJrpDChsw/viewform?c=0&w=1)
 
-DSXI | 06 | Intro to Linear Regression (Alex)
-
 ## Schedule
 
 | Week | Date | Instructor | Class | Due |
@@ -45,9 +43,10 @@ DSXI | 06 | Intro to Linear Regression (Alex)
 ## Your Team
 
 **Instructors:**
-    * [Mart van de Ven](mailto:m@droste.hk)
-    * [Dickson Kwong](mailto:dickson@droste.hk)
-    * [Alex Anzola Jürgenson](mailto:alex@droste.hk)
+
++ [Mart van de Ven](mailto:m@droste.hk)
++ [Dickson Kwong](mailto:dickson@droste.hk)
++ [Alex Anzola Jürgenson](mailto:alex@droste.hk)
 
 ## Facebook
 
