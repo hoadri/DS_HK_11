@@ -1,5 +1,4 @@
-#
-![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DS_HK_11](https://github.com/ga-students/DS_HK_11)
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DS_HK_11](https://github.com/ga-students/DS_HK_11)
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/hong-kong) in Hong Kong (12/10/16 - 19/12/16)
 
@@ -33,7 +32,7 @@ Student projects and assignements can be submitted through the [Submission Form]
 | 8 | 16-12-05 | Alex | [Modeling Time Series Data](./lessons/lesson-16) | |
 | 9 | 16-12-07 | Mart | [Data Science Pipelines](./lessons/lesson-17) | |
 | 9 | 16-12-12 | Mart | [Kaggle Competition](./lessons/lesson-18) | |
-| 10 | 16-12-14 | All | Final Project Labs | **[Final Project](./final-project/5) ** |
+| 10 | 16-12-14 | All | Final Project Labs | **[Final Project](./final-project/5)** |
 | 10 | 16-12-19 | All | Final Project Projects | |
 
 *(Syllabus last updated on 6/16/2016)*
