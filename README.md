@@ -35,9 +35,7 @@ Student projects and assignements can be submitted through the [Submission Form]
 | 10 | 16-12-14 | All | Final Project Labs | **[Final Project](./final-project/5)** |
 | 10 | 16-12-19 | All | Final Project Projects | |
 
-*(Syllabus last updated on 6/16/2016)*
-
-(Flexible class sessions will be finalized after student goals are defined)
+*(Syllabus last updated on 12/10/2016)*
 
 ## Your Team
 
