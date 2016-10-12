@@ -49,17 +49,13 @@ config dir: /Users/Usr/.jupyter
       jupyter_notebook_gist  OK
 ```
 
-
-https://cloud.githubusercontent.com/assets/969479/14916551/add90efc-0df0-11e6-8cfb-277754a48b66.png
-
-jupyter notebook --NotebookGist.oauth_client_id="<my_client_id>" --NotebookGist.oauth_client_secret="<my_client_secret>"
-
-
 ## Configuration
 
 ---
 
 Get your GitHub client id and secret. You can create one [here](https://github.com/settings/applications).
+
+[Sample](https://cloud.githubusercontent.com/assets/969479/14916551/add90efc-0df0-11e6-8cfb-277754a48b66.png)
 
 To run your notebok server:
 
