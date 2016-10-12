@@ -33,7 +33,7 @@ You'll get the opportunity to get immediate feedback and guidance in order to he
 
 - **Submission:**	
     * Present materials in class
-    * Submit presentation to instructor via email (aerlingr@gmail.com).
+    * Submit presentation to instructor via our [submission form](https://docs.google.com/forms/d/e/1FAIpQLScTItYSwramw2fi8Df-8Os_1WTC-TgqI9A0ps8pcKJrpDChsw/viewform?c=0&w=1).
 
 ---
 
