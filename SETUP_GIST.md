@@ -18,7 +18,7 @@ To double-check if the extension was correctly installed run:
 jupyter nbextension list
 ```
 
-Expected to see:
+Expected to see (Mac OSX):
 
 ```
 Known nbextensions:
@@ -40,7 +40,7 @@ To double-check if the extension was correctly installed run:
 jupyter serverextension list
 ```
 
-Expected to see:
+Expected to see (Mac OSX):
 
 ```
 config dir: /Users/Usr/.jupyter
