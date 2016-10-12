@@ -27,7 +27,7 @@ Each project includes objectives, requirements, starter-code, rubric, and sugges
 
 ## Submitting Projects
 
-Projects are submitted as links to notebooks hosted on gist/github and posted in the submission form: [HK DS 11 Submissions](XXX)
+Projects are submitted as links to notebooks hosted on gist/github and posted in the submission form: [HK DS 11 Submissions](https://docs.google.com/forms/d/e/1FAIpQLScTItYSwramw2fi8Df-8Os_1WTC-TgqI9A0ps8pcKJrpDChsw/viewform?c=0&w=1)
 
 ---
 
