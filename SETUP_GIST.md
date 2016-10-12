@@ -117,6 +117,11 @@ To run your notebok server:
 jupyter notebook --NotebookGist.oauth_client_id="id_here" --NotebookGist.oauth_client_secret="secret_here"
 ```
 
+You should be able to see there are 4 icons next to the `CellToolbar`
+
+![GIST ICON](resources/gist_icon.png)
+
+
 ## Check
 
 In case if you got `Unrecognized JSON config file` error...
