@@ -12,7 +12,7 @@ Student projects and assignements can be submitted through the [Submission Form]
 |:---:|:---:|:---:|:---|:---|
 | 0 | PRE | None | [Onboarding](./onboarding) | |
 | | | | **Unit 1 - Research Design and Exploratory Data Analysis** | |
-| 1 | 16-10-12 | All | [What is Data Science](./lessons/lesson-01) | |
+| 1 | 16-10-12 | All | [What is Data Science](./lessons/lesson-01) |**[Unit Project 1](./unit-projects/1) start**|
 | 1 | 16-10-17 | Alex | [Research Design and _pandas_](./lessons/lesson-02) | |
 | 2 | 16-10-19 | Alex | [Statistics Fundamentals pt. 1](./lessons/lesson-03) | |
 | 2 | 16-10-24 | Alex | [Statistics Fundamentals pt. 2](./lessons/lesson-04) | **[Unit Project 1](./unit-projects/1) due** |
