@@ -4,10 +4,22 @@
 
 To install, simply run:
 
+*Mac OSX*
+
 ```
 pip install jupyter-notebook-gist
 jupyter serverextension enable --py jupyter_notebook_gist
 sudo jupyter nbextension install --py jupyter_notebook_gist
+jupyter nbextension enable --py jupyter_notebook_gist
+jupyter nbextension enable --py widgetsnbextension
+```
+
+*Window*
+
+```
+pip install jupyter-notebook-gist
+jupyter serverextension enable --py jupyter_notebook_gist
+jupyter nbextension install --py jupyter_notebook_gist
 jupyter nbextension enable --py jupyter_notebook_gist
 jupyter nbextension enable --py widgetsnbextension
 ```
@@ -34,6 +46,31 @@ Known nbextensions:
       - Validating: OK
 ```
 
+Expected to see (Window):
+
+```
+Known nbextensions:
+  config dir: C:\Users\Usr\.jupyter\nbconfig
+    notebook section
+      jupyter-js-widgets/extension enabled
+      - Validating: ok
+      jupyter-notebook-gist/extension enabled
+      - Validating: ok
+  config dir: C:\Users\Usr\Anaconda2\etc\jupyter\nbconfig
+    notebook section
+      nb_anacondacloud/main enabled
+      - Validating: ok
+      nb_conda/main enabled
+      - Validating: ok
+      jupyter-js-widgets/extension enabled
+      - Validating: ok
+      nbpresent/js/nbpresent.min enabled
+      - Validating: ok
+    tree section
+      nb_conda/tree enabled
+      - Validating: ok
+```
+
 To double-check if the extension was correctly installed run:
 
 ```
@@ -47,6 +84,25 @@ config dir: /Users/Usr/.jupyter
     jupyter_notebook_gist  enabled
     - Validating...
       jupyter_notebook_gist  OK
+```
+
+Expected to see (Window):
+
+```
+config dir: C:\Users\Usr\.jupyter
+    jupyter_notebook_gist enabled
+    - Validating...
+      jupyter_notebook_gist  ok
+config dir: C:\Users\Usr\Anaconda2\etc\jupyter
+    nbpresent enabled
+    - Validating...
+      nbpresent  ok
+    nb_conda enabled
+    - Validating...
+      nb_conda  ok
+    nb_anacondacloud enabled
+    - Validating...
+      nb_anacondacloud  ok
 ```
 
 ## Configuration
@@ -65,7 +121,7 @@ jupyter notebook --NotebookGist.oauth_client_id="id_here" --NotebookGist.oauth_c
 
 In case if you got `Unrecognized JSON config file` error...
 
-Make sure the `notebook.json` under `~/.jupyter/nbconfig/` looks like the following:
+Make sure the `notebook.json` under `~/.jupyter/nbconfig/` or `C:\Users\Usr\.jupyter\nbconfig` looks like the following:
 
 ```
 {
