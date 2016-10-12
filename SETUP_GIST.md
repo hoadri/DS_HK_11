@@ -63,6 +63,8 @@ jupyter notebook --NotebookGist.oauth_client_id="id_here" --NotebookGist.oauth_c
 
 ## Check
 
+In case if you got `Unrecognized JSON config file` error...
+
 Make sure the `notebook.json` under `~/.jupyter/nbconfig/` looks like the following:
 
 ```
