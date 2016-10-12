@@ -119,7 +119,7 @@ jupyter notebook --NotebookGist.oauth_client_id="id_here" --NotebookGist.oauth_c
 
 You should be able to see there are 4 icons next to the `CellToolbar`
 
-![GIST ICON](resources/gist_icon.png)
+![GIST ICON](../resources/gist_icon.png)
 
 
 ## Check
