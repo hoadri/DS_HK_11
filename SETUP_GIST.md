@@ -1,7 +1,5 @@
 ## Installation
 
----
-
 To install, simply run:
 
 ```
@@ -51,14 +49,27 @@ config dir: /Users/Usr/.jupyter
 
 ## Configuration
 
----
-
 Get your GitHub client id and secret. You can create one [here](https://github.com/settings/applications).
 
-[Sample](https://cloud.githubusercontent.com/assets/969479/14916551/add90efc-0df0-11e6-8cfb-277754a48b66.png)
+Here's an [example](https://cloud.githubusercontent.com/assets/969479/14916551/add90efc-0df0-11e6-8cfb-277754a48b66.png) of an OAuth application created by @mreid-moz for testing.
 
 To run your notebok server:
 
 ```
 jupyter notebook --NotebookGist.oauth_client_id="id_here" --NotebookGist.oauth_client_secret="secret_here"
+```
+
+## Check
+
+Make sure the `notebook.json` under `~/.jupyter/nbconfig/` looks like the following:
+
+```
+{
+  "oauth_client_id": "id_here", 
+  "load_extensions": {
+    "jupyter-js-widgets/extension": true, 
+    "jupyter-notebook-gist/extension": true
+  }, 
+  "oauth_client_secret": "secret_here"
+}
 ```
