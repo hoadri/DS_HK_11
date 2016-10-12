@@ -12,7 +12,7 @@ Student projects and assignements can be submitted through the [Submission Form]
 |:---:|:---:|:---:|:---|:---|:---|
 | 0 | PRE | None | [Onboarding](./onboarding) | | |
 | | | | **Unit 1 - Research Design and Exploratory Data Analysis** | | |
-| 1 | 16-10-12 | All | [What is Data Science](./lessons/lesson-01) |**[Unit Project 1](./unit-projects/1)** **[Final Project 1](./final-project/1)**| |
+| 1 | 16-10-12 | All | [What is Data Science](./lessons/lesson-01) |**[Unit Project 1](./unit-projects/1)** and **[Final Project 1](./final-project/1)**| |
 | 1 | 16-10-17 | Alex | [Research Design and _pandas_](./lessons/lesson-02) | | |
 | 2 | 16-10-19 | Alex | [Statistics Fundamentals pt. 1](./lessons/lesson-03) | **[Unit Project 2](./unit-projects/2)** | **[Unit Project 1](./unit-projects/1) due** |
 | 2 | 16-10-24 | Alex | [Statistics Fundamentals pt. 2](./lessons/lesson-04) | | |
@@ -20,7 +20,7 @@ Student projects and assignements can be submitted through the [Submission Form]
 | | | | **Unit 2 - Foundations of Data Modeling** | | |
 | 3 | 16-10-31 | Alex | [Introduction to Linear Regression](./lessons/lesson-06) | | |
 | 4 | 16-11-02 | Alex | [Evaluating Model Fix](./lessons/lesson-07) | | |
-| 4 | 16-11-07 | Dickson | [Intro to Classification](./lessons/lesson-08) | **[Final Project 2](./final-project/2) due** | **[Final Project 1](./final-project/1) due** |
+| 4 | 16-11-07 | Dickson | [Intro to Classification](./lessons/lesson-08) | **[Final Project 2](./final-project/2)** | **[Final Project 1](./final-project/1) due** |
 | 5 | 16-11-09 | Dickson | [Intro to Logistic Regression ](./lessons/lesson-09) | **[Unit Project 4](./projects/unit-projects/4)** | |
 | 5 | 16-11-14 | Dickson | [Decision Trees / Random Forest](./lessons/lesson-10) | | **[Unit Project 3](./projects/unit-projects/3) due** |
 | 6 | 16-11-16 | Mart | [Communicating Model Results](./lessons/lesson-11) | | |
