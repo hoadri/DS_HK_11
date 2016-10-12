@@ -86,7 +86,7 @@ For this project we will be using an iPython notebook. Notebooks are a handy way
 #### Sample Deliverables 
 Check out the example notebook in our starter code, which includes a data dictionary and responses to questions. Wonder how to format your notebook the same way? Simply double-click on any section to view the markdown.
 
-![Example responses](https://github.com/ga-students/DS_HK_11/blob/gh-pages/projects/unit-projects/project-1/starter-code/unit-project-1-sample.ipynb)
+[Example responses](https://github.com/ga-students/DS_HK_11/blob/gh-pages/projects/unit-projects/project-1/starter-code/unit-project-1-sample.ipynb)
 
 ![Example Notebook](./assets/images/Example_ipynb.jpg)
 
