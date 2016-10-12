@@ -1,3 +1,5 @@
+# Setting up GIST for jupyter
+
 ## Installation
 
 To install, simply run:
