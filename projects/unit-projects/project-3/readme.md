@@ -23,7 +23,7 @@ In this project, you will perform a logistic regression on the admissions data w
     - Use KNN as a classifier and compare your results to your results from when you used Logistic Regression.
 
 - **Submission:**
-    - TBD by Instructor
+    - Due on 14 Nov 2016
 
 ---
 
@@ -31,7 +31,7 @@ In this project, you will perform a logistic regression on the admissions data w
 
 | Deadline | Deliverable| Description |
 |:-:|---|---|
-| Lesson 9 | Project 3  | Basic Modeling Assignment  |
+| Lesson 10 | Project 3  | Basic Modeling Assignment  |
 
 ---
 
