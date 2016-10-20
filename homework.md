@@ -12,3 +12,6 @@
 | Ming Chi | Y | Y |  |
 | Jason |  |  |  |
 | Loretta | Y |  |  |
+
+UP = Unit Project
+FP = Final Project
