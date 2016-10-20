@@ -11,7 +11,9 @@
 | Ivan | Y | Y |  |
 | Ming Chi | Y | Y |  |
 | Jason |  |  |  |
+| Shivy |  |  |  |
 | Loretta | Y |  |  |
+| Ritesh |  |  |  |
 
 UP = Unit Project
 FP = Final Project
