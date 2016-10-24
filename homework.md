@@ -11,7 +11,7 @@
 | Ivan | Y | Y |  |
 | Ming Chi | Y | Y |  |
 | Jason |  |  |  |
-| Shivy |  |  |  |
+| Shivy | Y | Y |  |
 | Loretta | Y | Y |  |
 | Ritesh |  |  |  |
 
