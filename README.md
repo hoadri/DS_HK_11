@@ -15,8 +15,8 @@ Student projects and assignements can be submitted through the [Submission Form]
 | 1 | 16-10-12 | All | [What is Data Science](./lessons/lesson-01) |**[Unit Project 1](./projects/unit-projects/project-1)** and **[Final Project 1](./projects/final-projects/01-lightning-talk)**| |
 | 1 | 16-10-17 | Alex | [Research Design and _pandas_](./lessons/lesson-02) | | |
 | 2 | 16-10-24 | Alex | [Statistics Fundamentals pt. 1](./lessons/lesson-03) | **[Unit Project 2](./projects/unit-projects/project-2)** | **[Unit Project 1](./projects/unit-projects/project-1)** |
-| 2 | 16-10-26 | Mart | [Exploratory Data Analysis](./lessons/lesson-05) | **[Unit Project 3](./project./projects/unit-projects/project-3)** | **[Unit Project 2](./projects/unit-projects/project-2)** |
-| 3 | 16-10-31 | Alex | [Statistics Fundamentals pt. 2](./lessons/lesson-04) | | |
+| 2 | 16-10-26 | Mart | [Exploratory Data Analysis](./lessons/lesson-05) | **[Unit Project 3](./project./projects/unit-projects/project-3)** | |
+| 3 | 16-10-31 | Alex | [Statistics Fundamentals pt. 2](./lessons/lesson-04) | | **[Unit Project 2](./projects/unit-projects/project-2)** |
 | | | | **Unit 2 - Foundations of Data Modeling** | | |
 | 3 | 16-11-02 | Alex | [Introduction to Linear Regression](./lessons/lesson-06) | | |
 | 4 | 16-11-07 | Alex | [Evaluating Model Fix](./lessons/lesson-07) | | |
