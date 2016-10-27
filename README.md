@@ -14,16 +14,16 @@ Student projects and assignements can be submitted through the [Submission Form]
 | | | | **Unit 1 - Research Design and Exploratory Data Analysis** | | |
 | 1 | 16-10-12 | All | [What is Data Science](./lessons/lesson-01) |**[Unit Project 1](./projects/unit-projects/project-1)** and **[Final Project 1](./projects/final-projects/01-lightning-talk)**| |
 | 1 | 16-10-17 | Alex | [Research Design and _pandas_](./lessons/lesson-02) | | |
-| 2 | 16-10-19 | Alex | [Statistics Fundamentals pt. 1](./lessons/lesson-03) | **[Unit Project 2](./projects/unit-projects/project-2)** | **[Unit Project 1](./projects/unit-projects/project-1)** |
-| 2 | 16-10-24 | Alex | [Statistics Fundamentals pt. 2](./lessons/lesson-04) | | |
-| 3 | 16-10-26 | Mart | [Exploratory Data Analysis](./lessons/lesson-05) | **[Unit Project 3](./project./projects/unit-projects/project-3)** | **[Unit Project 2](./projects/unit-projects/project-2)** |
+| 2 | 16-10-24 | Alex | [Statistics Fundamentals pt. 1](./lessons/lesson-03) | **[Unit Project 2](./projects/unit-projects/project-2)** | **[Unit Project 1](./projects/unit-projects/project-1)** |
+| 2 | 16-10-26 | Mart | [Exploratory Data Analysis](./lessons/lesson-05) | **[Unit Project 3](./project./projects/unit-projects/project-3)** | **[Unit Project 2](./projects/unit-projects/project-2)** |
+| 3 | 16-10-31 | Alex | [Statistics Fundamentals pt. 2](./lessons/lesson-04) | | |
 | | | | **Unit 2 - Foundations of Data Modeling** | | |
-| 3 | 16-10-31 | Alex | [Introduction to Linear Regression](./lessons/lesson-06) | | |
-| 4 | 16-11-02 | Alex | [Evaluating Model Fix](./lessons/lesson-07) | | |
-| 4 | 16-11-07 | Dickson | [Intro to Classification](./lessons/lesson-08) | **[Final Project 2](./projects/final-projects/02-experiment-writeup)** | **[Final Project 1](./projects/final-projects/01-lightning-talk)** |
-| 5 | 16-11-09 | Dickson | [Intro to Logistic Regression ](./lessons/lesson-09) | **[Unit Project 4](./project./projects/unit-projects/project-4)** | |
-| 5 | 16-11-14 | Dickson | [Decision Trees / Random Forest](./lessons/lesson-10) | | **[Unit Project 3](./project./projects/unit-projects/project-3)** |
-| 6 | 16-11-16 | Mart | [Communicating Model Results](./lessons/lesson-11) | | |
+| 3 | 16-11-02 | Alex | [Introduction to Linear Regression](./lessons/lesson-06) | | |
+| 4 | 16-11-07 | Alex | [Evaluating Model Fix](./lessons/lesson-07) | | |
+| 4 | 16-11-09 | Dickson | [Intro to Classification](./lessons/lesson-08) | **[Final Project 2](./projects/final-projects/02-experiment-writeup)** | **[Final Project 1](./projects/final-projects/01-lightning-talk)** |
+| 5 | 16-11-14 | Dickson | [Intro to Logistic Regression ](./lessons/lesson-09) | **[Unit Project 4](./project./projects/unit-projects/project-4)** | |
+| 5 | 16-11-16 | Dickson | [Decision Trees / Random Forest](./lessons/lesson-10) | | **[Unit Project 3](./project./projects/unit-projects/project-3)** |
+| 6 | 16-11-17 | Mart | [Communicating Model Results](./lessons/lesson-11) | | |
 | 6 | 16-11-21 | Dickson | [NLP with Classification](./lessons/lesson-12) | | **[Unit Project 4](./project./projects/unit-projects/project-4)** |
 | | | | **Unit 3 - Data Science in the Real World** | | |
 | 7 | 16-11-23 | Mart | [Feature Engineering (Clustering)](./lessons/lesson-13) | | |
